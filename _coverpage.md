@@ -6,7 +6,7 @@
 
 ​
 
-# MY Blog <small>1.0</small>
+# MY Reading <small>1.0</small>
 
 ​
 

@@ -1,6 +1,6 @@
 # Today I Learned
 
-<p><a href="https://cyber93-til.netlify.app"><img src="https://img.shields.io/badge/Site-https%3A%2F%2Fcyber93--til.netlify.app-blue" alt="TIL" /></a>
+<p><a href="https://cyber93-reading.netlify.app"><img src="https://img.shields.io/badge/Site-https%3A%2F%2Fcyber93--reading.netlify.app-blue" alt="TIL" /></a>
 
 
 배운 것과 공부한 것을 작성합니다.
@@ -9,7 +9,7 @@
 
 [blog](https://cyber93.tistory.com/)
 
-[Github](https://github.com/cyber93/TIL)
+[Github](https://github.com/cyber93/Reading)
 
 ## :writing_hand:작성 규칙
 
@@ -18,9 +18,3 @@
 - 파일명은 영어로 작성한다.
 
 이 저장소는 [docsify.js](https://docsify.js.org/#/) 를 통해 웹사이트로 만들어졌으며, [netlify](https://www.netlify.com/) 를 이용하여 배포되었습니다.
-
-## Reference
-
-- [JUNWOO45 TIL](https://github.com/JUNWOO45/TIL)
-- [thoughtbot TIL](https://github.com/thoughtbot/til)
-- [milooy TIL](https://github.com/milooy/TIL)
