@@ -10,11 +10,11 @@
 
 **Fundamental Technique**
 
-- Algorithm
+- [Algorithm](algorithm/algorithm.md)
 
-- Computer Architecture
+- [Computer Architecture](ca/ca.md)
 
-- Design Pattern
+- [Design Pattern](dp/dp.md)
 
 - [Operating System](os/os.md)
 - [System Programming](sysp/sysp.md)
@@ -23,8 +23,8 @@
 
 **Professional Technique**
 
-- Embedded System
+- [Embedded System](embedded/embedded.md)
 - [Linux Kernel](linux/linux.md)
 - [Software Engineering](swe/swe.md)
-- System Engineering
+- [System Engineering](syse/syse/md)
 
