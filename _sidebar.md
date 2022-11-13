@@ -26,5 +26,5 @@
 - [Embedded System](embedded/embedded.md)
 - [Linux Kernel](linux/linux.md)
 - [Software Engineering](swe/swe.md)
-- [System Engineering](syse/syse/md)
+- [System Engineering](syse/syse.md)
 
