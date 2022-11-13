@@ -1,31 +1,41 @@
-### Programming Language
+- ### Programming Language
 
-* [**C**](c/c.md)
+  * [**C**](c/c.md)
 
-* [**C++**](cpp/cpp.md)
 
-* [**Javascript**](javascript/javascript.md) 
+  * [**C++**](cpp/cpp.md)
 
-* [**Node.js**](nodejs/nodejs.md)
 
-* [**Python**](python/python.md)
+  * [**Javascript**](javascript/javascript.md) 
 
-### Fundamental Technique
 
-* Algorithm
+  * [**Node.js**](nodejs/nodejs.md)
 
-* Computer Architecture
 
-* Desigh Pattern
+  * [**Python**](python/python.md)
 
-* [Operating System](os/os.md)
-  * [**Linux**](linux/linux.md)
 
-* System Programming
+- ### Fundamental Technique
 
-### Professional Technique
+  * Algorithm
 
-* [Software Engineering](swe/swe.md)
 
-* System Engineering
+  * Computer Architecture
+
+
+  * Desigh Pattern
+    * [Operating System](os/os.md)
+      * [**Linux**](linux/linux.md)
+
+
+  * System Programming
+
+
+- ### Professional Technique
+
+  * [Software Engineering](swe/swe.md)
+
+
+  * System Engineering
+
 
