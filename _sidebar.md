@@ -17,14 +17,14 @@
 - Design Pattern
 
 - [Operating System](os/os.md)
-- System Programming
+- [System Programming](sysp/sysp.md)
 
 
 
 **Professional Technique**
 
 - Embedded System
-- [Linux](linux/linux.md)
+- [Linux Kernel](linux/linux.md)
 - [Software Engineering](swe/swe.md)
 - System Engineering
 
