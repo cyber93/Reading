@@ -1,3 +1,5 @@
+![image](https://www.sencha.com/wp-content/uploads/2016/10/ecmascript2015-senchacon-img2.png)
+
 - 튜토리얼: 해당 분야를 처음 공부할 때 보기 좋음
 
 - 실용서: 프로그래밍 하는데 있어 실용적인 내용을 많이 다룸

@@ -1,3 +1,5 @@
+![파일:Python logo and wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/486px-Python_logo_and_wordmark.svg.png)
+
 - 튜토리얼: 해당 분야를 처음 공부할 때 보기 좋음
 
 - 실용서: 프로그래밍 하는데 있어 실용적인 내용을 많이 다룸

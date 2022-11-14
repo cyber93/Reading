@@ -1,3 +1,5 @@
+![Text says "The C Programming Language"](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/240px-The_C_Programming_Language_logo.svg.png)
+
 - 튜토리얼: 해당 분야를 처음 공부할 때 보기 좋음
 - 실용서: 프로그래밍 하는데 있어 실용적인 내용을 많이 다룸
 - 바이블: 많은 분들이 필독서로 추천하는 검증된 교과서
