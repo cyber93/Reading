@@ -1,4 +1,4 @@
-![Lightbox](https://media.geeksforgeeks.org/wp-content/uploads/20190716103831/History-of-C.jpg)
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20190716103831/History-of-C.jpg" alt="Lightbox" style="zoom: 50%;" />
 
 - 튜토리얼: 해당 분야를 처음 공부할 때 보기 좋음
 

@@ -1,4 +1,4 @@
-![image](https://www.sencha.com/wp-content/uploads/2016/10/ecmascript2015-senchacon-img2.png)
+<img src="https://www.sencha.com/wp-content/uploads/2016/10/ecmascript2015-senchacon-img2.png" alt="image" style="zoom:50%;" />
 
 - 튜토리얼: 해당 분야를 처음 공부할 때 보기 좋음
 
