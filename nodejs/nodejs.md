@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js logo.svg" style="zoom: 25%;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js logo.svg" style="zoom: 15%;" />
 
 - 튜토리얼: 해당 분야를 처음 공부할 때 보기 좋음
 
