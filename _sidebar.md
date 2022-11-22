@@ -14,15 +14,11 @@
 
 
 - **Fundamental Technique**
-
   - [Algorithm](algorithm/algorithm.md)
-
 
   - [Computer Architecture](ca/ca.md)
 
-
   - [Design Pattern](dp/dp.md)
-
 
   - [Operating System](os/os.md)
 
