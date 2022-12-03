@@ -23,7 +23,7 @@
 | Practices of the Python Pro                                  |          |        |        |          |          |
 | 전문가를 위한 파이썬 - Fluent Python                         |          |        |   ✔    |    ✔     |    ✔     |
 | CPython 파헤치기                                             |          |   ✔    |        |          |    ✔     |
-|                                                              |          |        |        |          |          |
+| 프로그래머를 위한 Python                                     |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
