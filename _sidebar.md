@@ -9,6 +9,8 @@
   - [Node.js](nodejs/nodejs.md)
 
   - [Python](python/python.md)
+  
+  - [Rust](rust/rust.md)
 
 
 
@@ -36,5 +38,4 @@
   - [Software Engineering](swe/swe.md)
 
   - [System Engineering](syse/syse.md)
-
 
