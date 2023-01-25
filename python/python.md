@@ -19,7 +19,7 @@
 | High Performance Python, 2nd Edition                         |          |        |        |          |          |
 | Python Tricks The Book                                       |          |        |        |          |          |
 | Expert Python Programming, 4th Edition                       |          |        |        |          |          |
-| Tiny Python Projects                                         |          |        |        |          |          |
+| Tiny Python Projects                                         |    ✔     |   ✔    |        |    ✔     |    ✔     |
 | Practices of the Python Pro                                  |          |        |        |          |          |
 | 전문가를 위한 파이썬 - Fluent Python                         |          |        |   ✔    |    ✔     |    ✔     |
 | CPython 파헤치기                                             |          |   ✔    |        |          |    ✔     |
