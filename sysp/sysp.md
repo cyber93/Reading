@@ -11,11 +11,11 @@
 
 | 책 이름                                                      | 튜토리얼 | 실용서 | 바이블 | 레퍼런스 | 필자강추 |
 | ------------------------------------------------------------ | :------: | :----: | :----: | :------: | :------: |
-| Advanced Programming in the UNIX Environment  (Richard Stevens) |          |        |   ✔    |    ✔     |    ✔     |
-| Unix Network Programming (Richard Stevens)                   |          |        |   ✔    |    ✔     |          |
-| Advanced! 리눅스 시스템 네트워크 프로그래밍 (김선영)         |          |   ✔    |        |          |    ✔     |
 | 고급 리눅스 API Vol.1                                        |    ✔     |        |   ✔    |    ✔     |    ✔     |
 | 고급 리눅스 API Vol.2                                        |    ✔     |        |   ✔    |    ✔     |    ✔     |
+| Advanced! 리눅스 시스템 네트워크 프로그래밍 (김선영)         |          |   ✔    |        |          |    ✔     |
+| Advanced Programming in the UNIX Environment  (Richard Stevens) |          |        |   ✔    |    ✔     |    ✔     |
+| Unix Network Programming (Richard Stevens)                   |          |        |   ✔    |    ✔     |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |

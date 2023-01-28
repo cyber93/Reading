@@ -13,17 +13,17 @@
 
 | 책 이름                                                      | 튜토리얼 | 실용서 | 바이블 | 레퍼런스 | 필자강추 |
 | ------------------------------------------------------------ | :------: | :----: | :----: | :------: | :------: |
-| Python Essential Reference (David Beazly)                    |          |        |   ✔    |    ✔     |    ✔     |
-| [Architecture Patterns with Python](python/apwp/2022-04-apwp.md) |          |   ✔    |   ✔    |    ✔     |    ✔     |
-| [Effective Python, 2nd Edition](python/ep2/2022-04-ep2.md)   |          |        |   ✔    |    ✔     |    ✔     |
-| High Performance Python, 2nd Edition                         |          |        |        |          |          |
-| Python Tricks The Book                                       |          |        |        |          |          |
-| Expert Python Programming, 4th Edition                       |          |        |        |          |          |
-| Tiny Python Projects                                         |    ✔     |   ✔    |        |    ✔     |    ✔     |
-| Practices of the Python Pro                                  |          |        |        |          |          |
 | 전문가를 위한 파이썬 - Fluent Python                         |          |        |   ✔    |    ✔     |    ✔     |
-| CPython 파헤치기                                             |          |   ✔    |        |          |    ✔     |
 | 프로그래머를 위한 Python                                     |          |        |        |          |          |
+| [Architecture Patterns with Python](python/apwp/2022-04-apwp.md) |          |   ✔    |   ✔    |    ✔     |    ✔     |
+| CPython 파헤치기                                             |          |   ✔    |        |          |    ✔     |
+| [Effective Python, 2nd Edition](python/ep2/2022-04-ep2.md)   |          |        |   ✔    |    ✔     |    ✔     |
+| Expert Python Programming, 4th Edition                       |          |        |        |          |          |
+| High Performance Python, 2nd Edition                         |          |        |        |          |          |
+| Practices of the Python Pro                                  |          |        |        |          |          |
+| Python Essential Reference (David Beazly)                    |          |        |   ✔    |    ✔     |    ✔     |
+| Python Tricks The Book                                       |          |        |        |          |          |
+| Tiny Python Projects                                         |    ✔     |   ✔    |        |    ✔     |    ✔     |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |

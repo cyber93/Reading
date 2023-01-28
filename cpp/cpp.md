@@ -13,9 +13,6 @@
 
 | 책 이름                                                      | 튜토리얼 | 실용서 | 바이블 | 레퍼런스 | 필자강추 |
 | ------------------------------------------------------------ | :------: | :----: | :----: | :------: | :------: |
-| The C++ Programming Language (stroustrup)                    |          |        |   ✔    |    ✔     |          |
-| Programming : Principles and Practice Using C++  (stroustrup) |    ✔     |   ✔    |        |          |          |
-|                                                              |          |        |        |          |          |
 | C++ In Depth Series                                          |          |        |        |          |          |
 | ┗ A Tour of C++, 3rd Edition                                 |          |   ✔    |        |          |          |
 | ┗ A Tour of C++, 2nd Edition                                 |          |   ✔    |        |          |          |
@@ -28,10 +25,12 @@
 | ┗ Accelerated C++                                            |          |   ✔    |        |          |          |
 | ┗ Exceptional C++                                            |          |   ✔    |        |          |          |
 |                                                              |          |        |        |          |          |
+| C++ Primer (Stanley Lippman)                                 |    ✔     |        |   ✔    |    ✔     |    ✔     |
 | Effective C++ (Scott Meyers)                                 |          |   ✔    |   ✔    |          |    ✔     |
 | Effective Modern C++ (Scott Meyers)                          |          |   ✔    |   ✔    |          |          |
 | More Effective C++ (Scott Meyers)                            |          |   ✔    |        |          |          |
-| C++ Primer (Stanley Lippman)                                 |    ✔     |        |   ✔    |    ✔     |    ✔     |
+| Programming : Principles and Practice Using C++  (stroustrup) |    ✔     |   ✔    |        |          |          |
+| The C++ Programming Language (stroustrup)                    |          |        |   ✔    |    ✔     |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |

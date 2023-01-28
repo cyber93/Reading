@@ -12,11 +12,11 @@
 
 | 책 이름                                                      | 튜토리얼 | 실용서 | 바이블 | 레퍼런스 | 필자강추 |
 | ------------------------------------------------------------ | :------: | :----: | :----: | :------: | :------: |
-| The C Programming Language (K&R)                             |          |        |   ✔    |    ✔     |          |
-| [C Programming : A Modern Approach (K.N.King)](https://wikidocs.net/book/2494) |    ✔     |        |   ✔    |          |    ✔     |
-| C 언어 펀더멘탈                                              |          |        |   ✔    |          |    ✔     |
 | 전문가를 위한 C                                              |          |        |        |          |          |
 | 컴파일러 개발자가 들려주는 C 이야기                          |          |        |        |          |          |
+| C 언어 펀더멘탈                                              |          |        |   ✔    |          |    ✔     |
+| [C Programming : A Modern Approach (K.N.King)](https://wikidocs.net/book/2494) |    ✔     |        |   ✔    |          |    ✔     |
+| The C Programming Language (K&R)                             |          |        |   ✔    |    ✔     |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |

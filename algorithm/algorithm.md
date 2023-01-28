@@ -11,14 +11,14 @@
 
 | 책 이름                                                      | 튜토리얼 | 실용서 | 바이블 | 레퍼런스 | 필자강추 |
 | ------------------------------------------------------------ | :------: | :----: | :----: | :------: | :------: |
-| The Art of Computer Programming 1 (Donald Knuth)             |          |        |   ✔    |    ✔     |          |
-| The Art of Computer Programming 2 (Donald Knuth)             |          |        |   ✔    |    ✔     |          |
-| The Art of Computer Programming 3 (Donald Knuth)             |          |        |   ✔    |    ✔     |          |
-| The Art of Computer Programming 4A (Donald Knuth)            |          |        |   ✔    |    ✔     |          |
 | 알고리즘 문제 해결 전략 세트 (구종만)                        |          |   ✔    |        |          |          |
 | 알고리즘 트레이닝 : 자료 구조, 알고리즘 문제 해결 핵심 노하우 |          |   ✔    |        |          |          |
 | 알고리즘 트레이닝 : 프로그래밍 대회 입문 가이드, 2nd Edition |          |   ✔    |        |          |          |
 | 알고리즘 트레이닝 : 프로그래밍 대회 입문 가이드              |          |   ✔    |        |          |          |
+| The Art of Computer Programming 1 (Donald Knuth)             |          |        |   ✔    |    ✔     |          |
+| The Art of Computer Programming 2 (Donald Knuth)             |          |        |   ✔    |    ✔     |          |
+| The Art of Computer Programming 3 (Donald Knuth)             |          |        |   ✔    |    ✔     |          |
+| The Art of Computer Programming 4A (Donald Knuth)            |          |        |   ✔    |    ✔     |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
