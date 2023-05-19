@@ -19,9 +19,9 @@
 | The Art of Computer Programming 2 (Donald Knuth)             |          |        |   ✔    |    ✔     |          |
 | The Art of Computer Programming 3 (Donald Knuth)             |          |        |   ✔    |    ✔     |          |
 | The Art of Computer Programming 4A (Donald Knuth)            |          |        |   ✔    |    ✔     |          |
-|                                                              |          |        |        |          |          |
-|                                                              |          |        |        |          |          |
-|                                                              |          |        |        |          |          |
+| 문제 해결력을 높이는 알고리즘과 자료 구조                    |          |        |        |          |          |
+| 코딩 테스트를 위한 자료 구조와 알고리즘 with C++             |          |        |        |          |          |
+| 코딩 인터뷰를 위한 알고리즘 치트시트                         |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
