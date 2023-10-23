@@ -24,6 +24,8 @@
 
   - [Operating System](os/os.md)
 
+  - [Linux Kernel](linux/linux.md)
+  
   - [System Programming](sysp/sysp.md)
 
 
@@ -32,10 +34,6 @@
 - **Professional Technique**
 
   - [Embedded System](embedded/embedded.md)
-
-  - [Linux Kernel](linux/linux.md)
-
   - [Software Engineering](swe/swe.md)
-
   - [System Engineering](syse/syse.md)
 
