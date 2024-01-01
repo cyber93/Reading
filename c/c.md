@@ -17,8 +17,8 @@
 | C 언어 펀더멘탈                                              |          |        |   ✔    |          |    ✔     |
 | [C Programming : A Modern Approach (K.N.King)](https://wikidocs.net/book/2494) |    ✔     |        |   ✔    |          |    ✔     |
 | The C Programming Language (K&R)                             |          |        |   ✔    |    ✔     |          |
-|                                                              |          |        |        |          |          |
-|                                                              |          |        |        |          |          |
+| 모던 C                                                       |          |        |        |          |          |
+| CRAFTING INTERPRETERS                                        |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
 |                                                              |          |        |        |          |          |
