@@ -1,19 +1,3 @@
-- **Programming Language**
-
-  - [C](c/c.md)
-
-  - [C++](cpp/cpp.md)
-
-  - [Javascript](javascript/javascript.md) 
-
-  - [Node.js](nodejs/nodejs.md)
-
-  - [Python](python/python.md)
-  
-  - [Rust](rust/rust.md)
-
-
-
 
 - **Fundamental Technique**
   - [Algorithm](algorithm/algorithm.md)
@@ -37,3 +21,19 @@
   - [Software Engineering](swe/swe.md)
   - [System Engineering](syse/syse.md)
 
+
+
+- **Programming Language**
+  - [C](c/c.md)
+
+  - [C++](cpp/cpp.md)
+
+  - [Go](go/go.md)
+
+  - [Javascript](javascript/javascript.md) 
+
+  - [Node.js](nodejs/nodejs.md)
+
+  - [Python](python/python.md)
+
+  - [Rust](rust/rust.md)
